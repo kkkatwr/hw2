@@ -7,4 +7,5 @@ public class Main {
         System.out.println("количество начисленных бонусных миль " + "= " + miles);
 
 
-    }}
+    }
+}
